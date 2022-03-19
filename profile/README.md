@@ -1,4 +1,4 @@
-## Minetracker Org [Minetracker](https://imgur.com/a/Tr6RPNW)
+## Minetracker Org ![](https://imgur.com/a/Tr6RPNW)
 **What you shoild know:**
 
 ❓ Who are we? - We are Minetracker, a team that has worked on several other discord bots and now focusing on make a multipurpose bot and providing all required feutures for a discord server while being using slash commands.
