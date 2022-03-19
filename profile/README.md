@@ -1,4 +1,4 @@
-## Minetracker Org 
+## Minetracker
 ![Minetracker](https://i.imgur.com/tGVdFhB.png)
 
 
