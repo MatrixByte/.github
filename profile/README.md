@@ -2,6 +2,7 @@
 ![Minetracker](https://i.imgur.com/tGVdFhB.png)
 
 **What you should know:**
+
 ❓ Who are we? - We are Minetracker, a team that has worked on several other discord bots and now focusing on make a multipurpose bot and providing all required feutures for a discord server while being using slash commands.
 <br>
 
