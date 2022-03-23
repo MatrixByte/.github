@@ -10,7 +10,7 @@ Any type of support help us continiue the development! You can help by letting u
 
 ### 📁 Useful resources
 - [docs](https://github.com/MineTracker/docs)
-- [website]() (Coming Soon)
+- [website](https://trackergg.repl.co)
 - [bot-website]() (Coming Soon)
 
 ### 🤣 Fun fact
