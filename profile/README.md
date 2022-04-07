@@ -9,7 +9,6 @@ We are Minetracker, a team that has worked on several other discord bots and now
 Any type of support help us continiue the development! You can help by letting us know through issues anything wrong, pull requests also help if there are mistakes in code.
 
 ### 📁 Useful resources
-- [docs](https://github.com/MineTracker/docs)
 - [website](https://trackergg.repl.co)
 - [bot-website]() (Coming Soon)
 
