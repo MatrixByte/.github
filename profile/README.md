@@ -9,7 +9,7 @@ We are MatrixByte, a team that has worked on several other discord bots and now 
 Any type of support help us continiue the development! You can help by letting us know through issues anything wrong, pull requests also help if there are mistakes in code.
 
 ### 📁 Useful resources
-- [bot-website]() (Coming Soon)
+- [aubrey-discordbot]() (Coming Soon)
 
 ### 🤣 Fun fact
 Discord is forcing to use slash commands 
